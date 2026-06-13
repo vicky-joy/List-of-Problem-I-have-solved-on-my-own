@@ -1,4 +1,4 @@
-##I have build a cmd line game with the help of the platform pwn.college
+## I have build a cmd line game with the help of the platform pwn.college
 In this file all the program I have build excep the .json files which
 is given by pwn.college plateforme 
 
